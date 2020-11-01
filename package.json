@@ -1,0 +1,23 @@
+{
+  "name": "express-newrelic",
+  "version": "1.0.0",
+  "description": "personal playground for messing around with newrelic",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlcoffee/express-newrelic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlcoffee/express-newrelic/issues"
+  },
+  "homepage": "https://github.com/dlcoffee/express-newrelic#readme"
+}
